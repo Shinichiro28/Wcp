@@ -1,5 +1,5 @@
 
-public class Chapter04_02 {
+public class Chapter05_02 {
 	public static void methodA() {
 		System.out.println("methodA");
 		methodB();

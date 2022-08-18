@@ -1,5 +1,5 @@
 
-public class Chapter04_04 {
+public class Chapter05_04 {
 	public static void main(String[] args) {
 		add(100, 20);
 		add(30, 60);
@@ -9,4 +9,5 @@ public class Chapter04_04 {
 		int ans = x + y;
 		System.out.println(x + "+" + y + "=" + ans);
 	}
+
 }

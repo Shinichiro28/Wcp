@@ -1,5 +1,5 @@
 
-public class Chapter04_03 {
+public class Chapter05_03 {
 	public static void main(String[] args) {
 		System.out.println("メソッドを呼び出します");
 		hello("湊さん");
